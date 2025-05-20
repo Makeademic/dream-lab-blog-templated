@@ -65,6 +65,11 @@ npx @11ty/eleventy --serve
 
 ---
 
+1. Navigate in the **Explorer** to `package.json` and double-click to edit the file in the **Editor**
+2. Edit anything that says dream-lab-blog
+
+---
+
 1. Navigate in the **Explorer** to `content/index.njk` and double-click to edit the file in the **Editor**
 2. Edit line 16 between the opening and closing `<h1>` tags (primary header) to your preferred heading
 3. Edit line 32 between the opening and closing `<h2>` tags (secondary header) to your preferred typewriter message
